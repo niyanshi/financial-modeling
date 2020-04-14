@@ -2,11 +2,11 @@
 # 第 1 节：课程介绍
 2 / 2|4 分钟
 
-##1. Thank You Message from Chris 1 分钟
-##1. 略
+## 1. Thank You Message from Chris 1 分钟
+## 1. 略
 
-##2. Course Introduction & Who is this Course For?
-##2. 课程介绍和课程学习对象
+## 2. Course Introduction & Who is this Course For?
+## 2. 课程介绍和课程学习对象
 我要用你从来没有见过的方式教你会计和财务。假定你没有或很少有财务和会计方面的背景或经验，我将用一种寓教于乐方式进行教学，我们要享受这个过程。我希望像看一本好书一样，激发你对会计和财务的兴趣。。  
 
 我在夜校和商学院教会计和财务的时候，都是用这样的方式。大言不惭的说，你从网上或者在LinkedIn搜索我的名字可以看到，学生的反馈非常好。他在们学习和实践过程中，喜欢上了复杂的金融和财务课程。
@@ -35,8 +35,8 @@
 #第 2 节： 会计3-1 损益表分析
 5 / 5|19 分钟
 
-##3. Why is the Income Statement Important & How Can It Help You Achieve Your Goals
-##3. 损益表的重要性，及损益表如何帮你实现目标。
+## 3. Why is the Income Statement Important & How Can It Help You Achieve Your Goals
+## 3. 损益表的重要性，及损益表如何帮你实现目标。
 2 分钟
 先讲损益表。但在损益表之前，我先给大家简单介绍一下会计。我们要学习三张财务报表。
 资产负债表，告诉我们拥有什么。损益表，告诉我们赚了多少。然后是现金流表，损益表告诉我们赚了多少，但是他并不能精确告诉我们到底有多少钱进了口袋里。现金流表可以告诉我们到底有多少可支配的现金。
@@ -45,8 +45,8 @@
 
 好了，我们先从损益表开始。这一节我们要讲的是什么是损益表，它有什么作用。我们还要讲一下为什么要建立损益表。如果你不建立收益表和模型到未来，你永远不会知道一家公司值多少钱，他的目标定价应该是多少。我们会通过一系列Excel表格为例来进行学习。
 
-##4. Income Statement Explanation
-##4. 损益表解析
+## 4. Income Statement Explanation
+## 4. 损益表解析
 4 分钟
 
 我们来详细讨论一下损益表。损益表告诉你到底赚了多少钱。我们叫他营收或销售额。也有管他叫top line，因为他在损益表的第一行。还有bottom line，是我们的“底线"，指的是净收入，因为他在损益表的最下面。他还告诉我们，净收入，等于收入减去支出，非常简单。
@@ -59,8 +59,8 @@
 
 top line12块钱。而底线是3块钱。
 
-##5. Income Statement Example and Analysis
-##5. 损益表案例分析
+## 5. Income Statement Example and Analysis
+## 5. 损益表案例分析
 9 分钟
 ![](https://i.loli.net/2020/04/12/MRnsJcFLTK8Ciyp.jpg)
 现在我们知道什么是损益表了，来看一个例子。损益表总是从收入开始，这就是为什么他们叫它 "top line"。"bottom line"是什么？是收益或净收入，这就叫底线，因为它是在底部。
@@ -110,8 +110,8 @@ top line12块钱。而底线是3块钱。
 销售和市场支出占占营收的的比例从9%下降到8%。研发占营收的百分比，从5%降到了4%。同样一般政行支出占比，从7%到6%。如果我们看在一年中的支出变化。他们比营收的变化要低得多，占盘收的百分比下降，也意味着支出下降。这张损益表完全没有问题，这是一张绝对完美的损益表。
 
 
-##6. Income Statement Analysis Exercise
-##6. 损益表分析练习
+## 6. Income Statement Analysis Exercise
+## 6. 损益表分析练习
 1 分钟
 现在我们来做个练习，练习的Excel表格在课程的附件里。
 ![](https://i.loli.net/2020/04/13/mDznoxPk6tCqjSa.jpg)
@@ -119,8 +119,8 @@ top line12块钱。而底线是3块钱。
 ![](https://i.loli.net/2020/04/13/aUrn1mFWDk46uZo.jpg)
 
 我们需要把表单1中的条目，copy到表单2中的空白格子里。然后计算一下同比变化的绝对值和比例。其实已经有公式会帮我们自动计算好了。然后我们要在最右边的空白格子里写上自己的意见，这是不是一个需要关注的问题，如果是，为什么。答案在第三个表单中里。下一节 我们会给出答案和解释。
-##7. Income Statement Analysis Exercise Answers Explanations
-##7. 损益表分析练习解析
+## 7. Income Statement Analysis Exercise Answers Explanations
+## 7. 损益表分析练习解析
 我们来讨论一下损益表练习题的答案。
 
 我们就来看看数据趋势。
@@ -143,8 +143,8 @@ top line12块钱。而底线是3块钱。
 #第 3 节：会计3-2 - 资产负债表分析
 5 / 5|16 分钟
 
-##8. Why is the Balance Sheet Important & How Can It Help You Achieve Your Goals
-##8. 资产负债表的重要性，及资产负债表如何帮你实现目标。
+## 8. Why is the Balance Sheet Important & How Can It Help You Achieve Your Goals
+## 8. 资产负债表的重要性，及资产负债表如何帮你实现目标。
 1 分钟
 让我们来谈谈资产负债表，学完这一节，你会明白为什么资产负债表这么重要的。关键是你要了解如何分析资产负债表，这对我们真正建立财务模型的时候非常有意义。
 
@@ -156,8 +156,8 @@ top line12块钱。而底线是3块钱。
 
 同样我们要通过一个Excel表格来进行讲解。你很快会看到他的价值。当我们建模的时候，有很非常多联动的组成部分，有损益表、资产负债表、现金流表、驱动因素、假设，等等。未来的几节课程中，我们会把这些都搞明白。
 
-##9. Balance Sheet Explanation
-##9. 资产负债表解析
+## 9. Balance Sheet Explanation
+## 9. 资产负债表解析
 2 分钟
 我们来详细讨论一下资产负债表。记住，资产负债表必须要在天平两端平衡（balance)。
 
@@ -173,12 +173,12 @@ top line12块钱。而底线是3块钱。
 <span style="color: red;">你手上的东西叫做资产，现金、厂房和车，都是你的资产。这些资产的被谁援用？这就叫负债和所有者权益。所以，资产是对应你的手上的东西；负债是对你的东西有所有权的银行；所有者权益，是拥有你的东西的人，包括你自己。资产一定等于负债加所有者权益。我们举个例子，那辆车，比如是一辆丰田车。实际上你是分期付款购买的，所以你实际上拥有这辆车的一部分。这辆车等于你拥有的部分加上为你提供分期付款业务的银行。厂房也是一样的，那是你的房子，这个房子部分是你的，一部分是大的抵押贷款公司，比如富国银行的。所以所有的资产都要与负债或所有者权益平衡。天平的平衡是动态的，所以资产负债表是某一时候天平的快照，告诉你在这一刻，你拥有什么，你欠着什么。
 </span>
 
-##10. Balance Sheet Example and Analysis
-##10. 资产负债表案例分析
+## 10. Balance Sheet Example and Analysis
+## 10. 资产负债表案例分析
 我们来谈谈资产负债表的例子。资产负债表最上面是资产有资产，资产必须等于负债加所有者权益。
 ![](https://i.loli.net/2020/04/14/I7YS8O2jc9WbtZy.jpg)
 
-###资产
+## #资产
 所以在资产下面，我们有流动资产，而流动资产按我们可将其兑换成现金的快慢来排序：
 第一项现金和现金等价物，显然可以立即转换为自己；
 然后是短期投资，可以是国库券。
@@ -190,7 +190,7 @@ top line12块钱。而底线是3块钱。
 我们已经谈过折旧问题。我们在资产负债表上所做的是，我们要做的是列出的这项资产当前的价值，也就是说，是在我们减去了所有过去几年的折旧价值。
 总资产基本上就是流动资产+固定资产
 
-###负债
+## #负债
 我们有应付账款，是指我们当前欠别人的钱。我一直鼓励企业在不产生罚金的前提下尽可能地晚付账款。原因是，你需要把自己当成银行，因为在不产生利息支出或罚款的前提下，你的账单交得越迟，你可以在还钱之前，赚取那一点点利息的收益。当然现在的利率很低，所以这些利息不那么重要。但是当利率是比如12%甚至更高的时候，如果你在月末到期前的一两天再支付你的应付账款，比你在月初就支付，可以节省1%的利息，一个月1%。一年就是12%，这不是个小数目。
 
 我们有短期负债，与应付账款类似，他们一般都是在一年之内到期。
@@ -199,7 +199,7 @@ top line12块钱。而底线是3块钱。
 
 总负债当然等于流动负债加长期负债。
 
-### 所有者权益
+## # 所有者权益
 所有者权益有几分部组成
 
 未分配利润，这实际上是利润表和资产负债表之间的联系。它们之间是相互联系的，因为你有利润，你花掉，你有才留存。如果愿意，你可以对利润进行分红。我们假设，我们不派发分红，全部留在公司，那么我们就保留了那些利润。这时候未分配利润，就是上季度的的利润。
@@ -207,7 +207,7 @@ top line12块钱。而底线是3块钱。
 二是普通股票。
 
 所以资产永远要等于负债加所有者权益。
-### 分析
+## # 分析
 现在，我们要做的是，我们要做类似在损益表中做的分析。对2014年2015年两年的数据，看看绝对值的同比变化和变化的百分比。记住财务都是看变化率寻找规律。然后我们看看这些条目的变化是否需要关注，如果需要关注，会说明原因。
 
 好了，让我们来看看我们的数字，可以看到表上的资产确实等于负债+所有者权益。我们在表格下面设定了一个非常厉害的公式，来帮我们计算这个等式是否成立并提醒我们。我们试着删掉一两个数字，就会看到等式不等的警告。资产必须与负债和所有者权益平衡。
@@ -240,262 +240,262 @@ top line12块钱。而底线是3块钱。
 
 9 分钟
 
-##11. Balance Sheet Analysis Exercise
-##11. 资产负债表分析练习
+## 11. Balance Sheet Analysis Exercise
+## 11. 资产负债表分析练习
 1 分钟
 
-##12. Balance Sheet Analysis Exercise Answer Explanations
-##12. 资产负债表分析练习解析
+## 12. Balance Sheet Analysis Exercise Answer Explanations
+## 12. 资产负债表分析练习解析
 3 分钟
 #第 4 节： Accounting Part 3 of 3: Cash Flow Statement Analysis
 #第 4 节： 会计3-3: 现金流表分析
 6 / 6|15 分钟
 
-##13. Why is the Cash Flow Statement Important+How Can It Help You Achieve Your Goals
-##13. 现金流表的重要性，及资产负债表如何帮你实现目标。
+## 13. Why is the Cash Flow Statement Important+How Can It Help You Achieve Your Goals
+## 13. 现金流表的重要性，及资产负债表如何帮你实现目标。
 1 分钟
 
-##14. Cash Flow Statement Explanation
-##14. 现金流表解析
+## 14. Cash Flow Statement Explanation
+## 14. 现金流表解析
 2 分钟
 
-##15. Cash Flow Statement Example and Analysis
-##15. 现金流表案例分析
+## 15. Cash Flow Statement Example and Analysis
+## 15. 现金流表案例分析
 7 分钟
 
-##16. Cash Flow Statement Analysis Exercise
-##16. 现金流表分析练习
+## 16. Cash Flow Statement Analysis Exercise
+## 16. 现金流表分析练习
 1 分钟
 
-##17. Cash Flow Statement Analysis Exercise Answer Explanations
-##17. 现金流表分析练习
+## 17. Cash Flow Statement Analysis Exercise Answer Explanations
+## 17. 现金流表分析练习
 2 分钟
 
-##18. Financial Statement Analysis Conclusion (How All 3 Statements Are Related)
-## 18 财务报表分析总结（三张报表的关系）
+## 18. Financial Statement Analysis Conclusion (How All 3 Statements Are Related)
+##  18 财务报表分析总结（三张报表的关系）
 2 分钟
 #第 5 节： Financial Modeling Part 1 of 4: Introduction and Best Practices
 #第 5 节： 财务建模4 - 1: 财务建模介绍和最佳实践
 3 / 3|7 分钟
 
-##19. Why is Financial Modeling Important & How Can It Help YouAchieve Your Goals
-##19. 财务建模的重要性及财务建模如何帮助你实现目标
+## 19. Why is Financial Modeling Important & How Can It Help YouAchieve Your Goals
+## 19. 财务建模的重要性及财务建模如何帮助你实现目标
 2 分钟
 
-##20. Financial Modeling Best Practices
-##20. 财务建模最佳实践
+## 20. Financial Modeling Best Practices
+## 20. 财务建模最佳实践
 5 分钟
 
-### 测验 1： Financial Modeling Introduction & Best Practices Quiz
-### 测验 1： 财务建模介绍和最佳实践小测验
+## # 测验 1： Financial Modeling Introduction & Best Practices Quiz
+## # 测验 1： 财务建模介绍和最佳实践小测验
 #第 6 节： Financial Modeling Part 2 of 4: Where Do I Get Historical Data From?
 #第 6 节： 财务建模4-2: 从哪里获取数据?
 6 / 6|30 分钟
 
-##21. Why is Investor Relations+SEC.Gov Important & How Can It Help Me Build Models?
-##21. 为什么投资者关系和SEC官方很重要？他们如何帮助我们建模？
+## 21. Why is Investor Relations+SEC.Gov Important & How Can It Help Me Build Models?
+## 21. 为什么投资者关系和SEC官方很重要？他们如何帮助我们建模？
 2 分钟
 
-##22. Introduction to Investor Relations (A Great Model Data Source)
-##22. 投资者关系介绍
+## 22. Introduction to Investor Relations (A Great Model Data Source)
+## 22. 投资者关系介绍
 11 分钟
 
-##23. SEC.gov is Another Great Model Resource
-##23. SEC.gov介绍
+## 23. SEC.gov is Another Great Model Resource
+## 23. SEC.gov介绍
 7 分钟
 
-##24. Yahoo Finance is Also a Great Model Resource
-##24. 雅虎财经介绍
+## 24. Yahoo Finance is Also a Great Model Resource
+## 24. 雅虎财经介绍
 5 分钟
 
-##25. What Quarterly Earnings Call & Why Is It Important for Modeling Purposes?
-##25. 季度财报电话是介绍及其对财务建模的重要性
+## 25. What Quarterly Earnings Call & Why Is It Important for Modeling Purposes?
+## 25. 季度财报电话是介绍及其对财务建模的重要性
 5 分钟
 
-###测验 2： Financial Modeling Data Sources Quiz
-###测验 2： 财务建模数据源小测验
+## #测验 2： Financial Modeling Data Sources Quiz
+## #测验 2： 财务建模数据源小测验
 #第 7 节： Financial Modeling Part 3 of 4: Case Study: Building a Model for LinkedIn
 #第 7 节： 财务建模4-3：案例学习：为LinkedIn建模
 6 / 6|49 分钟
 
-##26. Case Study Introduction and What You Will Learn in this Section
-##26. 我们能从案例中学到什么
+## 26. Case Study Introduction and What You Will Learn in this Section
+## 26. 我们能从案例中学到什么
 2 分钟
 
-##27. Qualitative Analysis on LinkedIn
-##27. LinkedIn定性分析
+## 27. Qualitative Analysis on LinkedIn
+## 27. LinkedIn定性分析
 
 2 分钟
 
-##28. What is the Total Addressable Market for LinkedIn and Why is this Important?
-##28. LinkedIn的潜在市场规模分析及其重要性?
+## 28. What is the Total Addressable Market for LinkedIn and Why is this Important?
+## 28. LinkedIn的潜在市场规模分析及其重要性?
 
 6 分钟
 
-##29. LinkedIn Model Introduction
-##29. LinkedIn 模型介绍
+## 29. LinkedIn Model Introduction
+## 29. LinkedIn 模型介绍
 4 分钟
 
-##30. LinkedIn Model Discussion in More Detail (Historical Data Only)
-##30. LinkedIn 模型讨论进阶（历史数据）
+## 30. LinkedIn Model Discussion in More Detail (Historical Data Only)
+## 30. LinkedIn 模型讨论进阶（历史数据）
 18 分钟
 
-##31. Forecasting the LinkedIn Model
-##31. LinkedIn的预测模型
+## 31. Forecasting the LinkedIn Model
+## 31. LinkedIn的预测模型
 17 分钟
 #第 8 节： Financial Modeling Part 4 of 4: Financial Model Exercise
 #第 8 节： 财务建模4-4：练习
 
 3 / 3|15 分钟
 
-##32. Financial Modeling Exercises Introduction
-##32. 习题介绍
+## 32. Financial Modeling Exercises Introduction
+## 32. 习题介绍
 1 分钟
 
-##33. Financial Modeling Exercise
-##33. 习题
+## 33. Financial Modeling Exercise
+## 33. 习题
 4 分钟
 
-##34. Modeling Exercise Answer Explanations
-##34. 习题解析
+## 34. Modeling Exercise Answer Explanations
+## 34. 习题解析
 10 分钟
 #第 9 节： Valuation Part 1 of 6: Introduction and Best Practices
 #第 9 节： 估值6-1：简介和最佳实践
 4 / 4|6 分钟
 
-##35. Introduction to Valuation
-##35. 估值简介
+## 35. Introduction to Valuation
+## 35. 估值简介
 1 分钟
 
-##36. More Detail on Growth Versus Value and P/E + P/R + DCF Overview
-##36. 基于成长性的估值 vs 基于价值的估值及P/E + P/R + DCF概述
+## 36. More Detail on Growth Versus Value and P/E + P/R + DCF Overview
+## 36. 基于成长性的估值 vs 基于价值的估值及P/E + P/R + DCF概述
 4 分钟
 
-##37. 25 Valuation and Modeling Best Practices
-##37. 25条建模和估值的最佳实践
+## 37. 25 Valuation and Modeling Best Practices
+## 37. 25条建模和估值的最佳实践
 1 分钟
 
-### 测验 3： Exercise: Valuation Best Practices Quiz
-### 测验 3： 估值最佳实践小测验
+## # 测验 3： Exercise: Valuation Best Practices Quiz
+## # 测验 3： 估值最佳实践小测验
 #第 10 节： Valuation Part 2 of 6: Discounted Cash Flow (DCF)
 #第 10 节： 估值6-2：贴现现金流（DCF)
 2 / 7|55 分钟
 
-##38. What is DCF, Why is it Important and How Does it Work?
-##38. 什么是DCF(贴现现金流), DCF为何重要？如何运行？
+## 38. What is DCF, Why is it Important and How Does it Work?
+## 38. 什么是DCF(贴现现金流), DCF为何重要？如何运行？
 6 分钟
 
-##39. Calculating the Terminal Value
-##39. 计算终值
+## 39. Calculating the Terminal Value
+## 39. 计算终值
 3 分钟
 
-##40. Calculating the Weighted Average Cost of Capital (WACC)
-##40. 计算加权平均资本成本 (WACC)
+## 40. Calculating the Weighted Average Cost of Capital (WACC)
+## 40. 计算加权平均资本成本 (WACC)
 6 分钟
 
-##41. DCF Example
-##41. 贴现现金流案例
+## 41. DCF Example
+## 41. 贴现现金流案例
 8 分钟
 
-##42. DCF Exercise
-##42. 贴现现金流习题
+## 42. DCF Exercise
+## 42. 贴现现金流习题
 2 分钟
 
-##43. DCF Exercise Answer Explanations Part 1 of 2
-##43. 贴现现金流习题解析 2 - 1
+## 43. DCF Exercise Answer Explanations Part 1 of 2
+## 43. 贴现现金流习题解析 2 - 1
 19 分钟
 
-##44. DCF Exercise Answer Explanations Part 2 of 2
-##44. 贴现现金流习题解析 2 - 2
+## 44. DCF Exercise Answer Explanations Part 2 of 2
+## 44. 贴现现金流习题解析 2 - 2
 11 分钟
 #第 11 节： Valuation Part 3 of 6: Price to Revenue
 #第 11 节： 估值6 - 3：价格 / 收入 (市销率？）
 0 / 4|9 分钟
 
-##45. What is Price / Revenue and Why Do We Need to Base a Target Price on this Ratio?
+## 45. What is Price / Revenue and Why Do We Need to Base a Target Price on this Ratio?
 什么市销率，为什么需要基于市销率来确定目标价格？
 2 分钟
 
-##46. Price to Revenue Example
-##46. 市销率案例
+## 46. Price to Revenue Example
+## 46. 市销率案例
 
 2 分钟
 
-##47. Price to Revenue Valuation Exercise
-##47. 市销率估值习题
+## 47. Price to Revenue Valuation Exercise
+## 47. 市销率估值习题
 1 分钟
 
-##48. Price to Revenue Exercise Answer Explanations
-##48. 市销率估值习题qes
+## 48. Price to Revenue Exercise Answer Explanations
+## 48. 市销率估值习题qes
 5 分钟
 #第 12 节： Valuation Part 4 of 6: Price to Earnings & Additional Valuation Methodologies
 #第 12 节： 估值 6 - 4：市盈率及其他估值方法
 0 / 5|13 分钟
 
-##49. Introduction to P/E and Why it Matters
-##49. 市盈率介绍及其重要性
+## 49. Introduction to P/E and Why it Matters
+## 49. 市盈率介绍及其重要性
 3 分钟
 
-##50. Price to Earnings Example
-##50. 市盈率案例
+## 50. Price to Earnings Example
+## 50. 市盈率案例
 2 分钟
 
-##51. Price to Earnings Valuation Exercise
-##51. 市盈率估值习题
+## 51. Price to Earnings Valuation Exercise
+## 51. 市盈率估值习题
 1 分钟
 
-##52. Price to Earnings Exercise Answer Explanations
-##52. 市盈率估值习题解析
+## 52. Price to Earnings Exercise Answer Explanations
+## 52. 市盈率估值习题解析
 6 分钟
 
-##53. Additional Valuation Methodologies
-##53. 其他估值方法
+## 53. Additional Valuation Methodologies
+## 53. 其他估值方法
 2 分钟
 #第 13 节： Valuation Part 5 of 6: Final Target Price Calculation & "TAM Sanity Check"
 #第 13 节： 估值6-5：最终目标价格及TAM（潜在总市场规模）一致性验证
 0 / 1|1 分钟
 
-##54. Our Final Price Target Calculation
-##54. 我们的最终目标价格计算
+## 54. Our Final Price Target Calculation
+## 54. 我们的最终目标价格计算
 1 分钟
 #第 14 节： Valuation Part 6 of 6: Valuation Part 6 of 6 Comparing TAM to the Target Price
 #第 14 节： 估值6-6：比较TAM（潜在总市场规模）和目标价格
 
 0 / 1|1 分钟
 
-##55. Using the TAM to Verify How Realistic Our Target Price Is
-##55. 用TAM来验证我们的目标价格是否合理
+## 55. Using the TAM to Verify How Realistic Our Target Price Is
+## 55. 用TAM来验证我们的目标价格是否合理
 1 分钟
 #第 15 节： Assessing Financials with Formulas
 #第 15 节： 用公式评估财务数据
 0 / 4|19 分钟
 
-##56. Introduction to Formulas
-##56. 公式介绍
+## 56. Introduction to Formulas
+## 56. 公式介绍
 1 分钟
 
-##57. Amazing Formulas to Assess Financials
-##57. 评估财务数据的神奇公式
+## 57. Amazing Formulas to Assess Financials
+## 57. 评估财务数据的神奇公式
 8 分钟
 
-##58. Exercise on Using Formulas
-##58. 公式习题
+## 58. Exercise on Using Formulas
+## 58. 公式习题
 1 分钟
 
-##59. Discussion of the Answers to the Formulas Exercise
-##59. 公式习题讨论
+## 59. Discussion of the Answers to the Formulas Exercise
+## 59. 公式习题讨论
 10 分钟
 #第 16 节： Course Conclusion
 #第 16 节： 课程总结
 0 / 1|2 分钟
 
-##60. Conclusion
-##60. 总结
+## 60. Conclusion
+## 60. 总结
 2 分钟
 #第 17 节： Bonus Materials
 #第 17 节： 奖励材料
 0 / 1|2 分钟
 
-##61. Bonus Lecture
-##61. 奖励课时
+## 61. Bonus Lecture
+## 61. 奖励课时
 2 分钟
