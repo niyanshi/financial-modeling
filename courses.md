@@ -31,8 +31,8 @@
 谢谢
 
 
-#第 2 节： Accounting Part 1 of 3: Income Statement Analysis
-#第 2 节： 会计3-1 损益表分析
+# 第 2 节： Accounting Part 1 of 3: Income Statement Analysis
+# 第 2 节： 会计3-1 损益表分析
 5 / 5|19 分钟
 
 ## 3. Why is the Income Statement Important & How Can It Help You Achieve Your Goals
@@ -53,9 +53,9 @@
 
 我们再深入一些。讲个例子：你有一个公司，卖苹果的。一个苹果卖两块钱，你卖了6个苹果，那就是12块钱的收入。在支出，生产一个苹果要花一块钱。我们生产了6个苹果，所以卖出的商品成本是6块钱。所以收入减去支出 - 销售商品的成本 - 等于毛利。继续，我们还有劳动付出，你在这家公司工作，赚一块钱的工资，这也是支出。还有一项支出叫折旧，但这个不需要从你的口袋里掏钱出来。怎么算呢，你花了10年买了一车卡车，你的卡车可以用10年。车的使用会有损耗，所以你每年都可以把车折旧，这项支出实际上意味着你可以少交税。在10年内，我们一共可以折旧10块钱，今年是1块，明年再1块，一直到10块块钱，这就是折旧。这是个好事，因为接下来我们要讨论税收，因为这量车，我们可以少付一点点税。如果我们不把这辆车当回事，那就得多交点税。那我们到底要交多少税？我们的税前净收入是4块钱（12 - 6 - 1 - 1 = 4），我们交税的基数就是这4块钱。假设税率是25%吧，我们要交一元钱的税。如果我们不把这样卡车折旧1块钱，我们就得有5块钱收入基数要交税，这意味着我们得交更多的税。所以现在我们的净利润是3块钱。
 
-
+<center>
 ![这是一张图](https://i.loli.net/2020/04/12/wijeO5BM2Ha1Cst.jpg)
-
+</center>
 
 现在让我们再仔细看一下收入，我们这门课要花大量时间在“收入”上。它比财务报表上的任何其他项目都要重要。因为一旦知道了了收入，财务模型中的其他项目只是收入的一个百分比。这在我们讲到建模部分的时候会很有意义。
 
@@ -141,8 +141,8 @@ top line12块钱。而底线是3块钱。
 
 好好看看这些数据，看看每个格子里的数字是怎么计算出来的。这是你真正学习和掌握损益表流程的最好方法。掌握了这个后，我们就可以继续讨论资产负债表了。把财务弄清楚以后，我们可以接着讨论财务建模和估值。
 
-#第 3 节： Accounting Part 2 of 3: Balance Sheet Analysis
-#第 3 节：会计3-2 - 资产负债表分析
+# 第 3 节： Accounting Part 2 of 3: Balance Sheet Analysis
+# 第 3 节：会计3-2 - 资产负债表分析
 5 / 5|16 分钟
 
 ## 8. Why is the Balance Sheet Important & How Can It Help You Achieve Your Goals
@@ -180,7 +180,7 @@ top line12块钱。而底线是3块钱。
 我们来谈谈资产负债表的例子。资产负债表最上面是资产有资产，资产必须等于负债加所有者权益。
 ![](https://i.loli.net/2020/04/14/I7YS8O2jc9WbtZy.jpg)
 
-## #资产
+### 资产
 所以在资产下面，我们有流动资产，而流动资产按我们可将其兑换成现金的快慢来排序：
 第一项现金和现金等价物，显然可以立即转换为自己；
 然后是短期投资，可以是国库券。
@@ -192,7 +192,7 @@ top line12块钱。而底线是3块钱。
 我们已经谈过折旧问题。我们在资产负债表上所做的是，我们要做的是列出的这项资产当前的价值，也就是说，是在我们减去了所有过去几年的折旧价值。
 总资产基本上就是流动资产+固定资产
 
-## #负债
+### 负债
 我们有应付账款，是指我们当前欠别人的钱。我一直鼓励企业在不产生罚金的前提下尽可能地晚付账款。原因是，你需要把自己当成银行，因为在不产生利息支出或罚款的前提下，你的账单交得越迟，你可以在还钱之前，赚取那一点点利息的收益。当然现在的利率很低，所以这些利息不那么重要。但是当利率是比如12%甚至更高的时候，如果你在月末到期前的一两天再支付你的应付账款，比你在月初就支付，可以节省1%的利息，一个月1%。一年就是12%，这不是个小数目。
 
 我们有短期负债，与应付账款类似，他们一般都是在一年之内到期。
@@ -201,7 +201,7 @@ top line12块钱。而底线是3块钱。
 
 总负债当然等于流动负债加长期负债。
 
-## # 所有者权益
+### 所有者权益
 所有者权益有几分部组成
 
 未分配利润，这实际上是利润表和资产负债表之间的联系。它们之间是相互联系的，因为你有利润，你花掉，你有才留存。如果愿意，你可以对利润进行分红。我们假设，我们不派发分红，全部留在公司，那么我们就保留了那些利润。这时候未分配利润，就是上季度的的利润。
@@ -209,7 +209,7 @@ top line12块钱。而底线是3块钱。
 二是普通股票。
 
 所以资产永远要等于负债加所有者权益。
-## # 分析
+### 分析
 现在，我们要做的是，我们要做类似在损益表中做的分析。对2014年2015年两年的数据，看看绝对值的同比变化和变化的百分比。记住财务都是看变化率寻找规律。然后我们看看这些条目的变化是否需要关注，如果需要关注，会说明原因。
 
 好了，让我们来看看我们的数字，可以看到表上的资产确实等于负债+所有者权益。我们在表格下面设定了一个非常厉害的公式，来帮我们计算这个等式是否成立并提醒我们。我们试着删掉一两个数字，就会看到等式不等的警告。资产必须与负债和所有者权益平衡。
@@ -249,8 +249,8 @@ top line12块钱。而底线是3块钱。
 ## 12. Balance Sheet Analysis Exercise Answer Explanations
 ## 12. 资产负债表分析练习解析
 3 分钟
-#第 4 节： Accounting Part 3 of 3: Cash Flow Statement Analysis
-#第 4 节： 会计3-3: 现金流表分析
+# 第 4 节： Accounting Part 3 of 3: Cash Flow Statement Analysis
+# 第 4 节： 会计3-3: 现金流表分析
 6 / 6|15 分钟
 
 ## 13. Why is the Cash Flow Statement Important+How Can It Help You Achieve Your Goals
@@ -276,8 +276,8 @@ top line12块钱。而底线是3块钱。
 ## 18. Financial Statement Analysis Conclusion (How All 3 Statements Are Related)
 ##  18 财务报表分析总结（三张报表的关系）
 2 分钟
-#第 5 节： Financial Modeling Part 1 of 4: Introduction and Best Practices
-#第 5 节： 财务建模4 - 1: 财务建模介绍和最佳实践
+# 第 5 节： Financial Modeling Part 1 of 4: Introduction and Best Practices
+# 第 5 节： 财务建模4 - 1: 财务建模介绍和最佳实践
 3 / 3|7 分钟
 
 ## 19. Why is Financial Modeling Important & How Can It Help YouAchieve Your Goals
@@ -290,8 +290,8 @@ top line12块钱。而底线是3块钱。
 
 ## # 测验 1： Financial Modeling Introduction & Best Practices Quiz
 ## # 测验 1： 财务建模介绍和最佳实践小测验
-#第 6 节： Financial Modeling Part 2 of 4: Where Do I Get Historical Data From?
-#第 6 节： 财务建模4-2: 从哪里获取数据?
+# 第 6 节： Financial Modeling Part 2 of 4: Where Do I Get Historical Data From?
+# 第 6 节： 财务建模4-2: 从哪里获取数据?
 6 / 6|30 分钟
 
 ## 21. Why is Investor Relations+SEC.Gov Important & How Can It Help Me Build Models?
@@ -316,8 +316,8 @@ top line12块钱。而底线是3块钱。
 
 ## #测验 2： Financial Modeling Data Sources Quiz
 ## #测验 2： 财务建模数据源小测验
-#第 7 节： Financial Modeling Part 3 of 4: Case Study: Building a Model for LinkedIn
-#第 7 节： 财务建模4-3：案例学习：为LinkedIn建模
+# 第 7 节： Financial Modeling Part 3 of 4: Case Study: Building a Model for LinkedIn
+# 第 7 节： 财务建模4-3：案例学习：为LinkedIn建模
 6 / 6|49 分钟
 
 ## 26. Case Study Introduction and What You Will Learn in this Section
@@ -345,8 +345,8 @@ top line12块钱。而底线是3块钱。
 ## 31. Forecasting the LinkedIn Model
 ## 31. LinkedIn的预测模型
 17 分钟
-#第 8 节： Financial Modeling Part 4 of 4: Financial Model Exercise
-#第 8 节： 财务建模4-4：练习
+# 第 8 节： Financial Modeling Part 4 of 4: Financial Model Exercise
+# 第 8 节： 财务建模4-4：练习
 
 3 / 3|15 分钟
 
@@ -361,8 +361,8 @@ top line12块钱。而底线是3块钱。
 ## 34. Modeling Exercise Answer Explanations
 ## 34. 习题解析
 10 分钟
-#第 9 节： Valuation Part 1 of 6: Introduction and Best Practices
-#第 9 节： 估值6-1：简介和最佳实践
+# 第 9 节： Valuation Part 1 of 6: Introduction and Best Practices
+# 第 9 节： 估值6-1：简介和最佳实践
 4 / 4|6 分钟
 
 ## 35. Introduction to Valuation
@@ -379,8 +379,8 @@ top line12块钱。而底线是3块钱。
 
 ## # 测验 3： Exercise: Valuation Best Practices Quiz
 ## # 测验 3： 估值最佳实践小测验
-#第 10 节： Valuation Part 2 of 6: Discounted Cash Flow (DCF)
-#第 10 节： 估值6-2：贴现现金流（DCF)
+# 第 10 节： Valuation Part 2 of 6: Discounted Cash Flow (DCF)
+# 第 10 节： 估值6-2：贴现现金流（DCF)
 2 / 7|55 分钟
 
 ## 38. What is DCF, Why is it Important and How Does it Work?
@@ -410,8 +410,8 @@ top line12块钱。而底线是3块钱。
 ## 44. DCF Exercise Answer Explanations Part 2 of 2
 ## 44. 贴现现金流习题解析 2 - 2
 11 分钟
-#第 11 节： Valuation Part 3 of 6: Price to Revenue
-#第 11 节： 估值6 - 3：价格 / 收入 (市销率？）
+# 第 11 节： Valuation Part 3 of 6: Price to Revenue
+# 第 11 节： 估值6 - 3：价格 / 收入 (市销率？）
 0 / 4|9 分钟
 
 ## 45. What is Price / Revenue and Why Do We Need to Base a Target Price on this Ratio?
@@ -430,8 +430,8 @@ top line12块钱。而底线是3块钱。
 ## 48. Price to Revenue Exercise Answer Explanations
 ## 48. 市销率估值习题qes
 5 分钟
-#第 12 节： Valuation Part 4 of 6: Price to Earnings & Additional Valuation Methodologies
-#第 12 节： 估值 6 - 4：市盈率及其他估值方法
+# 第 12 节： Valuation Part 4 of 6: Price to Earnings & Additional Valuation Methodologies
+# 第 12 节： 估值 6 - 4：市盈率及其他估值方法
 0 / 5|13 分钟
 
 ## 49. Introduction to P/E and Why it Matters
@@ -453,23 +453,23 @@ top line12块钱。而底线是3块钱。
 ## 53. Additional Valuation Methodologies
 ## 53. 其他估值方法
 2 分钟
-#第 13 节： Valuation Part 5 of 6: Final Target Price Calculation & "TAM Sanity Check"
-#第 13 节： 估值6-5：最终目标价格及TAM（潜在总市场规模）一致性验证
+# 第 13 节： Valuation Part 5 of 6: Final Target Price Calculation & "TAM Sanity Check"
+# 第 13 节： 估值6-5：最终目标价格及TAM（潜在总市场规模）一致性验证
 0 / 1|1 分钟
 
 ## 54. Our Final Price Target Calculation
 ## 54. 我们的最终目标价格计算
 1 分钟
-#第 14 节： Valuation Part 6 of 6: Valuation Part 6 of 6 Comparing TAM to the Target Price
-#第 14 节： 估值6-6：比较TAM（潜在总市场规模）和目标价格
+# 第 14 节： Valuation Part 6 of 6: Valuation Part 6 of 6 Comparing TAM to the Target Price
+# 第 14 节： 估值6-6：比较TAM（潜在总市场规模）和目标价格
 
 0 / 1|1 分钟
 
 ## 55. Using the TAM to Verify How Realistic Our Target Price Is
 ## 55. 用TAM来验证我们的目标价格是否合理
 1 分钟
-#第 15 节： Assessing Financials with Formulas
-#第 15 节： 用公式评估财务数据
+# 第 15 节： Assessing Financials with Formulas
+# 第 15 节： 用公式评估财务数据
 0 / 4|19 分钟
 
 ## 56. Introduction to Formulas
@@ -487,15 +487,15 @@ top line12块钱。而底线是3块钱。
 ## 59. Discussion of the Answers to the Formulas Exercise
 ## 59. 公式习题讨论
 10 分钟
-#第 16 节： Course Conclusion
-#第 16 节： 课程总结
+# 第 16 节： Course Conclusion
+# 第 16 节： 课程总结
 0 / 1|2 分钟
 
 ## 60. Conclusion
 ## 60. 总结
 2 分钟
-#第 17 节： Bonus Materials
-#第 17 节： 奖励材料
+# 第 17 节： Bonus Materials
+# 第 17 节： 奖励材料
 0 / 1|2 分钟
 
 ## 61. Bonus Lecture
