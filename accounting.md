@@ -231,6 +231,7 @@ top line12块钱。而底线是3块钱。
 留存收益，有巨大的增长，同比增长了80%。厉害，厉害，厉害。
 
 然后是普通股。看起来我们增发了6000元的普通股，所有我们400%的普通股增长。
+$\frac{1}{2}$
 
 看起来负债和所都权益部分的的20％增长，主要来自留存收益。这告诉我们，为什么资产部分增长了。在资产部分，现金和等价物，增长了20000元。但是我们看到留存收益增长是375750元，为什么现金只增长了20000元，留存收益增长的375750是怎么来的？别急，等讲到现金流表的时候，我们会解释。我们回到损益表的来看看，留存收益的增长部分，就是上个年底的静利润。
 
@@ -391,94 +392,7 @@ top line12块钱。而底线是3块钱。
 当我们了解了这三张表及他们的联系。我们就可以通过建立财务模型来预测未来。一旦我们掌握了财务模型的流程，我们就可以对公司进行目标定价。
 
 
-# 第 5 节： Financial Modeling Part 1 of 4: Introduction and Best Practices
-# 第 5 节： 财务建模4 - 1: 财务建模介绍和最佳实践
-3 / 3|7 分钟
 
-## 19. Why is Financial Modeling Important & How Can It Help YouAchieve Your Goals
-## 19. 财务建模的重要性及财务建模如何帮助你实现目标
-2 分钟
-
-## 20. Financial Modeling Best Practices
-## 20. 财务建模最佳实践
-5 分钟
-
-## # 测验 1： Financial Modeling Introduction & Best Practices Quiz
-## # 测验 1： 财务建模介绍和最佳实践小测验
-# 第 6 节： Financial Modeling Part 2 of 4: Where Do I Get Historical Data From?
-# 第 6 节： 财务建模4-2: 从哪里获取数据?
-6 / 6|30 分钟
-
-## 21. Why is Investor Relations+SEC.Gov Important & How Can It Help Me Build Models?
-## 21. 为什么投资者关系和SEC官方很重要？他们如何帮助我们建模？
-2 分钟
-
-## 22. Introduction to Investor Relations (A Great Model Data Source)
-## 22. 投资者关系介绍
-11 分钟
-
-## 23. SEC.gov is Another Great Model Resource
-## 23. SEC.gov介绍
-7 分钟
-
-## 24. Yahoo Finance is Also a Great Model Resource
-## 24. 雅虎财经介绍
-5 分钟
-
-## 25. What Quarterly Earnings Call & Why Is It Important for Modeling Purposes?
-## 25. 季度财报电话是介绍及其对财务建模的重要性
-5 分钟
-
-## #测验 2： Financial Modeling Data Sources Quiz
-## #测验 2： 财务建模数据源小测验
-# 第 7 节： Financial Modeling Part 3 of 4: Case Study: Building a Model for LinkedIn
-# 第 7 节： 财务建模4-3：案例学习：为LinkedIn建模
-6 / 6|49 分钟
-
-## 26. Case Study Introduction and What You Will Learn in this Section
-## 26. 我们能从案例中学到什么
-2 分钟
-
-## 27. Qualitative Analysis on LinkedIn
-## 27. LinkedIn定性分析
-
-2 分钟
-
-## 28. What is the Total Addressable Market for LinkedIn and Why is this Important?
-## 28. LinkedIn的潜在市场规模分析及其重要性?
-
-6 分钟
-
-## 29. LinkedIn Model Introduction
-## 29. LinkedIn 模型介绍
-4 分钟
-
-## 30. LinkedIn Model Discussion in More Detail (Historical Data Only)
-## 30. LinkedIn 模型讨论进阶（历史数据）
-18 分钟
-
-## 31. Forecasting the LinkedIn Model
-## 31. LinkedIn的预测模型
-17 分钟
-# 第 8 节： Financial Modeling Part 4 of 4: Financial Model Exercise
-# 第 8 节： 财务建模4-4：练习
-
-3 / 3|15 分钟
-
-## 32. Financial Modeling Exercises Introduction
-## 32. 习题介绍
-1 分钟
-
-## 33. Financial Modeling Exercise
-## 33. 习题
-4 分钟
-
-## 34. Modeling Exercise Answer Explanations
-## 34. 习题解析
-10 分钟
-# 第 9 节： Valuation Part 1 of 6: Introduction and Best Practices
-# 第 9 节： 估值6-1：简介和最佳实践
-4 / 4|6 分钟
 
 ## 35. Introduction to Valuation
 ## 35. 估值简介
